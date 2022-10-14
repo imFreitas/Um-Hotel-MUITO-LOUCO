@@ -1,14 +1,14 @@
-# Hotel-Muito-Louco
+ Um Hotel MUITO LOUCO
 
 ## Objetivo da Atividade:
       Trabalhar conceitos de Algoritmos e Logica de Programação usando JavaScript desenvolvendo um hotel.
 
 ## Requisitos:
 
+
 1. Ao acessar o sistema, pergunte o nome do Hotel e diga "O nome do hotel é {Hotel}".
 
 2.Ao acessar o sistema, pergunte o nome do usuário e uma senha. O nome do usuário não precisa de validação. A senha deve ser 2678.
-
 
 3.Na função "inicio", utilize escolha/caso (switch/case) para validar a opção escolhida pelo do usuário.
 
@@ -315,7 +315,3 @@ Programa exibe          =>  "O serviço de Empresa 2 custará R$1480.0"
 Programa pergunta   =>  "Deseja informar novos dados, {Nome}? (S/N)"
 Resposta do usuário =>  N
 Programa exibe          =>  "O orçamento de menor valor é o [Empresa 1 por R$ 1200.0]"
-
-
-
-
