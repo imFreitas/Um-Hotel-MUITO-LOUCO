@@ -499,7 +499,7 @@
 		}
 		function erro2() {
 			alert('Por favor, informe um dia da semana válido');
-			inicio();
+			dia_Semana();
 		}
 		function sair() {
 			let confirma = confirm('Você deseja sair?');
