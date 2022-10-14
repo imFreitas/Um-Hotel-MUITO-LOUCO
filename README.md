@@ -1,5 +1,4 @@
 # Hotel-Muito-Louco
-### Atividade de Algoritmo e Logica de Programação proposta em aula do Instituto Proa
 
 ## Objetivo da Atividade:
       Trabalhar conceitos de Algoritmos e Logica de Programação usando JavaScript desenvolvendo um hotel.
