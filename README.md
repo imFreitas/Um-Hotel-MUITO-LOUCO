@@ -1,5 +1,7 @@
 ## Um Hotel MUITO LOUCO
 
+<img src="https://st.depositphotos.com/2288675/2454/i/450/depositphotos_24543787-stock-photo-hotel.jpg" width="50%">
+
 ## Objetivo da Atividade:
       Trabalhar conceitos de Algoritmos e Logica de Programação usando JavaScript desenvolvendo um hotel.
 
